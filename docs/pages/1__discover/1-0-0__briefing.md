@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Noa Dekocker
+ - Lotte De Kimpe
 
 Gekozen Museum
 --------------
