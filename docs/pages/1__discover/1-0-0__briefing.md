@@ -7,14 +7,19 @@ published: true
 title: Briefing
 ---
 
-Opdracht
---------
+## Opdracht
 
-Teamleden
----------
+| ------------- |-------------|
+| Omschrijving     | Je werkt in groep één project uit dat bestaat uit verschillende deelopdrachten. De resultaten van de deelopdrachten kunnen deliverables zijn en/of een onderdelen van het productiedossier. |
+| Algemene probleemstelling     | Een museum wil de bezoeker een nieuwe gebruikersbeleving (Eng.: User Experience) geven door gebruik te maken van smartwatch en smartphone.|
+| Algemene aanpak | Stel een groepje samen met maximaal 2 studenten. Kies met je groepje een bestaand museum dat je echt gaat bezoeken en voer alle opdrachten uit.|
+{:.table}
 
- - Noa Dekocker
+## Teamleden
+
  - Lotte De Kimpe
+ - Noa Dekocker
+{:.ul}
 
-Gekozen Museum
---------------
+## Gekozen Museum
+Centrum Ronde Van Vlaanderen

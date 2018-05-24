@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+<img class="max-width" src="/1718-nmd3-project/assets/img/ideaboard.png" alt="ideaboard" width="100%" />

@@ -1,28 +1,53 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ Noa Dekoc ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Installatie in de les
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Analyse + technische analyse verder afwerken
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Persona sheets
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Concept bepalen
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.50
+  task: Elevator pitch voorbereiden
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Elevator pitch doen en bekijken van anderen
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Ideaboard
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 1.50
+  task: Paper prototype
+-
+  time: 1.50
+  task: Style tiles
+-
+  time: 1.00
+  task: Style tiles
+-
+  time: 1.00
+  task: Wireflow
+-
+  time: 2.00
+  task: Styletiles & wireflow
+-
+  time: 2.00
+  task: problemen github opgelost
+-
+  time: 2.50
+  task: wireflow opnieuw maken en style tiles
+-
+  time: 3.00
+  task: screen designs en wireflow smartphone
+-
+  time: 2.00
+  task: productiedossier
+-
