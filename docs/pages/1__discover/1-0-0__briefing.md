@@ -23,3 +23,5 @@ title: Briefing
 
 ## Gekozen Museum
 Centrum Ronde Van Vlaanderen
+
+<img class="max-width" src="{{ 'assets/img/museum.jpg' | relative_url }}" />

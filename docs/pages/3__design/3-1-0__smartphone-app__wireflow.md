@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+<img class="max-width"  src="{{ 'assets/img/wireflow_smartphone.png' | relative_url }}" alt="wireflow"/>

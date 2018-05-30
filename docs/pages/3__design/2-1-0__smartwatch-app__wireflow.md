@@ -7,4 +7,4 @@ published: true
 title: Wireflow
 ---
 
-
+<img class="max-width" src="{{ 'assets/img/wireflow_watch.png' | relative_url }}" alt="wireflow"/>

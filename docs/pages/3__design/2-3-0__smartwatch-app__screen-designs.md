@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+<img class="max-width" src="{{ 'assets/img/visuals_watch.png' | relative_url }}" />

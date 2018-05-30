@@ -6,9 +6,9 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-<img src="/1718-nmd3-project/assets/img/journey_maps.png"  alt="journeymap" width="100%" />
-<img src="/1718-nmd3-project/assets/img/journey_maps2.png"  alt="journeymap" width="100%" />
-<img src="/1718-nmd3-project/assets/img/journey_maps3.png"  alt="journeymap" width="100%" />
-<img src="/1718-nmd3-project/assets/img/journey_maps4.png"  alt="journeymap" width="100%" />
-<img src="/1718-nmd3-project/assets/img/journey_maps5.png"  alt="journeymap" width="100%" />
-<img src="/1718-nmd3-project/assets/img/journey_maps6.png"  alt="journeymap" width="100%" />
+<img class="max-width" src="{{ 'assets/img/Journey_maps.png' | relative_url }}" alt="ideaboard" width="100%"/>
+<img class="max-width" src="{{ 'assets/img/Journey_maps2.png' | relative_url }}" alt="ideaboard" width="100%"/>
+<img class="max-width" src="{{ 'assets/img/Journey_maps3.png' | relative_url }}" alt="ideaboard" width="100%"/>
+<img class="max-width" src="{{ 'assets/img/Journey_maps4.png' | relative_url }}" alt="ideaboard" width="100%"/>
+<img class="max-width" src="{{ 'assets/img/Journey_maps5.png' | relative_url }}" alt="ideaboard" width="100%"/>
+<img class="max-width" src="{{ 'assets/img/Journey_maps6.png' | relative_url }}" alt="ideaboard" width="100%"/>

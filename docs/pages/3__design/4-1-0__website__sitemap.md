@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+<img class="max-width" src="{{ 'assets/img/sitemap.png' | relative_url }}" alt="ideaboard" width="100%"/>
