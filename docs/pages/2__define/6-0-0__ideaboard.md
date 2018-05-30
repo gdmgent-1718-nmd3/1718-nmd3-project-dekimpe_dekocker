@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
-<img class="max-width" src="{{ 'assets/img/ideaboard.png' | relative_url }}" alt="ideaboard" width="100%"/>
+<img class="max-width" src="{{ 'assets/img/ideaboard2.png' | relative_url }}" alt="ideaboard" width="100%"/>

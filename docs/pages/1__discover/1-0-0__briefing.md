@@ -22,6 +22,6 @@ title: Briefing
 {:.ul}
 
 ## Gekozen Museum
-Centrum Ronde Van Vlaanderen
+Wij kozen voor het Centrum Ronde Van Vlaanderen (CRVV). Het is een belevingscentrum in Oudenaarde, je vindt er een museum, verschillende tentoonstellingen, een café en een shop. Je kan hier elke dag opnieuw de Ronde beleven. De Ronde van Vlaanderen is één van de grootste en belangrijkste wielerwedstrijden ter wereld.
 
 <img class="max-width" src="{{ 'assets/img/museum.jpg' | relative_url }}" />
