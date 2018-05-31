@@ -7,6 +7,8 @@ published: true
 title: Website
 ---
 
+## Inhoud
+
 [Sitemap](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
 
 [Wireframes](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)

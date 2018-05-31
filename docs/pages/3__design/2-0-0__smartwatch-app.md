@@ -7,10 +7,10 @@ published: true
 title: Smartwatch-app
 ---
 
-##Inhoud
+## Inhoud
 
-[1 Wireflow](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+[1 Wireflow](docs/pages/3__design/2-1-0__smartwatch-app__wireflow.md)
 
-[2 Gebruikerstesten](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+[2 Gebruikerstesten](docs/pages/3__design/2-2-0__smartwatch-app__gebruikerstests.md)
 
-[3 Screen designs](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+[3 Screen designs](docs/pages/3__design/2-3-0__smartwatch-app__screen-designs.md)

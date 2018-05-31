@@ -7,4 +7,6 @@ published: true
 title: Screen Designs
 ---
 
-<img class="max-width" src="{{ 'assets/img/visuals_watch.png' | relative_url }}" />
+<iframe width="312" height="390" src="https://xd.adobe.com/embed/f27a0ac3-e9c3-4e40-4705-259806044b7f-844b/" frameborder="0" allowfullscreen></iframe>
+
+Dit is ons prototype uit Adobe XD, het is klikbaar.

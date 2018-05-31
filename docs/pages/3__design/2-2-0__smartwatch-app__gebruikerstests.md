@@ -17,3 +17,5 @@ Paper Prototype
 | Verbeterpunten | logo crvv gebruiken als begin-pagina, naam crvv kende ze niet, tour tonen op elk van de onderdelen, pauze-knop voor het luisteren, duidelijk maken wat de bedoeling is bij de fiets bijvoorbeeld uitleg, aftellen voor fietsen, knop om in te schrijven voor evenementen via app      |    aanduiden waar je zit bij de tour en wat je al gedaan hebt, aftellen voor het fietsen begint |
 {:.table}
 {:.table3}
+
+<img class="max-width" src="{{ 'assets/img/gebruikerstest_watch.jpg' | relative_url }}" alt="gebruikerstest"/>
