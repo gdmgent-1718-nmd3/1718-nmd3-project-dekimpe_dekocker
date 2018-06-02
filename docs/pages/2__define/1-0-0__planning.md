@@ -15,4 +15,4 @@ Wij gaan proberen deze planning zo goed mogelijk te volgen zodat we geen tijd te
 
 <img class="max-width" src="{{ 'assets/img/planning3.png' | relative_url }}" alt="planning" width="100%"/>
 
-Dit is ons min om meer gelukt, we hadden geen tijd meer over maar ook geen te kort.
+Dit is ons min of meer gelukt, we hadden geen tijd meer over maar ook geen te kort.
