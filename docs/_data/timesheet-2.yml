@@ -3,48 +3,122 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 2.50
+  time: 3.00
   task: Installatie in de les
 -
-  time: 2.50
-  task: Analyse + technische analyse verder afwerken
+  time: 3.00
+  task: CRVV bezoeken en bezoekers aanspreken
 -
   time: 2.50
-  task: Journey maps
+  task: Analyse uitschrijven
 -
-  time: 1.00
+  time: 2.50
+  task: Apple Watch Series 3 uittesten
+-
+  time: 2.50
+  task: Technische analyse
+-
+  time: 3.50
+  task: Journey maps (beleving en inzichten)
+-
+  time: 3.00
   task: Concept bepalen
 -
-  time: 1.50
+  time: 2.50
   task: Elevator pitch voorbereiden
 -
   time: 2.50
   task: Elevator pitch doen en bekijken van anderen
 -
-  time: 1.00
+  time: 3.00
   task: Ideaboard
 -
-  time: 1.50
-  task: Productiedossier updaten
+  time: 2.50
+  task: Style Tile
 -
-  time: 1.50
-  task: Paper prototype
--
-  time: 1.50
-  task: Uittesten paper prototype
--
-  time: 1.00
-  task: Style tiles
--
-  time: 1.00
-  task: Wireflow
--
-  time: 1.00
-  task: paper prototype opnieuw
--
-  time: 1.00
-  task: beginnen screen designs
+  time: 2.50
+  task: Wireflow smartwatch
 -
   time: 3.00
-  task: screen designs en wireflow smartphone
+  task: Paper prototype
 -
+  time: 1.00
+  task: Gebruikerstesten
+-
+  time: 1.00
+  task: Paper prototype aanpassen
+-
+  time: 1.50
+  task: Style tiles aanpassen
+-
+  time: 4.00
+  task: Visual design smartwatch
+-
+  time: 3.50
+  task: Wireflow smartphone
+-
+  time: 1.00
+  task: Gebruikerstesten wireflow smartphone
+-
+  time: 1.50
+  task: Beginnen visuals smartphone
+-
+  time: 2.00
+  task: Wireflow smartphone aanpassen
+-
+  time: 4.00
+  task: Visuals smartphone verder werken
+-
+  time: 1.50
+  task: Wireflow smartphone pagina's toevoegen (registreren, menukaart en bestelling plaatsen)
+-
+  time: 2.50
+  task: Visuals smartphone pagina's toevoegen (registreren, menukaart en bestellen)
+-
+  time: 2.50
+  task: Visuals smartphone (actief-knoppen maken)
+-
+  time: 2.00
+  task: Visuals smartphone linken
+-
+  time: 1.50
+  task: Smartwatch visuals aanpassen (achtergrond)
+-
+  time: 0.50
+  task: Algemeen concept verder uitschrijven
+-
+  time: 0.50
+  task: Verslagen gebruikerstesten uitschrijven
+-
+  time: 1.0
+  task: Sitemap website
+-
+  time: 1.0
+  task: Inspiratie opdoen promowebsites
+-
+  time: 1.0
+  task: Begin wireframes site
+-
+  time: 2.0
+  task: Wireframes website
+-
+  time: 1.5
+  task: Beginnen visuals website
+-
+  time: 3.0
+  task: Visuals smartphone aanpassen aan feedback (instellingenpagina, bibliotheek knoppen, scorebord aanvullen met wielrenners, gewone tekst over even groot)
+-
+  time: 1.50
+  task: Presentatie voorbereiden samen met Noa en verdelen
+-
+  time: 1.00
+  task: Productiedossier nakijken
+-
+  time: 2.00
+  task: Presentatie voorbereiden
+-
+  time: 0.25
+  task: Presenteren voor ouders
+-
+
+

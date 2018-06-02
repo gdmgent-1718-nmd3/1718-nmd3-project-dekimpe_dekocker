@@ -9,8 +9,8 @@ title: Website
 
 ## Inhoud
 
-[Sitemap](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/website/sitemap' | relative_url }}">1 Sitemap</a><br>
 
-[Wireframes](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/website/wireframes' | relative_url }}">2 Wireframes</a><br>
 
-[Screendesigns](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/website/screen-designs' | relative_url }}">3 Screen designs</a><br>

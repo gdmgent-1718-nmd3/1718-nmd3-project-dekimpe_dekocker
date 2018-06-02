@@ -8,10 +8,10 @@ title: UI Style Guide
 ---
 ## Inhoud
 
-[Typografie](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/ui-style-guide/typografie' | relative_url }}">1 Typografie</a><br>
 
-[Kleuren](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/ui-style-guide/kleuren' | relative_url }}">2 Kleuren</a><br>
 
-[Knoppen](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/ui-style-guide/knoppen' | relative_url }}">3 Knoppen</a><br>
 
-[Formulieren](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/ui-style-guide/formulieren' | relative_url }}">4 Formulieren</a>

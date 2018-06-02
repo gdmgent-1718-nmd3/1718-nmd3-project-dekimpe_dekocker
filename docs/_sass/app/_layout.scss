@@ -132,55 +132,34 @@ padding-top: 50px;}
 .knop_lichtoranje {height: 30px;
   width: 200px;
   background-color: $light-orange;
+  text-transform: uppercase;
 border-radius: 100px;
 font-family: Rubik;
+font-weight: bold;
 font-size: 15px;
-color: white;
+color: $dark-blue;
+padding-top: 4px;
 text-align: center;
-padding-top: 5px;
-font-weight: bold;}
+font-weight: bold;
+  &:hover{background-color: transparent;
+    border: 3px solid $light-orange;
+    color: $light-orange;}}
 
 .knop_donkeroranje {height: 30px;
   width: 200px;
   background-color: $dark-orange;
 border-radius: 100px;
 font-family: Rubik;
+font-weight: bold;
+text-transform: uppercase;
+padding-top: 4px;
 font-size: 15px;
-color: white;
-text-align: center;
-padding-top: 5px;
-font-weight: bold;}
-
-.knop_lichtoranje_active {height: 30px;
-  width: 200px;
-  background-color: white;
-  border: 3px solid $light-orange;
-border-radius: 100px;
-font-family: Rubik;
-font-size: 15px;
-color: $light-orange;
-text-align: center;
-
-font-weight: bold;}
-
-.knop_donkeroranje_active {height: 30px;
-  width: 200px;
-  background-color: white;
-  border: 3px solid $dark-orange;
-border-radius: 100px;
-font-family: Rubik;
-font-size: 15px;
-color: $dark-orange;
-text-align: center;
-font-weight: bold;}
-
-.knop_rond {height: 40px;
-  width: 40px;
-  background-color: $dark-orange;
-border-radius: 100px;
+color: $dark-blue;
 text-align: center;
 font-weight: bold;
-padding-top:8px;}
+  &:hover {background-color: transparent;
+  border: 3px solid $light-orange;
+  color: $light-orange;}}
 
-.icoon {height: 22px;
-width: 25px;}
+
+

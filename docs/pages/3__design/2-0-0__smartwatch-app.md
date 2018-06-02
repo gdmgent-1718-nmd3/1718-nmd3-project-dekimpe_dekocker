@@ -9,8 +9,8 @@ title: Smartwatch-app
 
 ## Inhoud
 
-[1 Wireflow](docs/pages/3__design/2-1-0__smartwatch-app__wireflow.md)
+<a href="{{ 'design/smartwatch-app/wireflow' | relative_url }}">1 Wireflow</a><br>
 
-[2 Gebruikerstesten](docs/pages/3__design/2-2-0__smartwatch-app__gebruikerstests.md)
+<a href="{{ 'design/smartwatch-app/gebruikerstests' | relative_url }}">2 Gebruikerstests</a><br>
 
-[3 Screen designs](docs/pages/3__design/2-3-0__smartwatch-app__screen-designs.md)
+<a href="{{ 'design/smartwatch-app/screen-designs' | relative_url }}">3 Screen designs</a><br>

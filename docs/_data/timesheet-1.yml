@@ -3,51 +3,108 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 2.50
+  time: 3.00
   task: Installatie in de les
 -
-  time: 2.50
-  task: Analyse + technische analyse verder afwerken
+  time: 3.00
+  task: CRVV bezoeken en bezoekers aanspreken
 -
   time: 2.50
+  task: Analyse
+-
+  time: 2.50
+  task: Apple Watch Series 3 uittesten
+-
+  time: 2.50
+  task: Technische analyse
+-
+  time: 3.50
   task: Persona sheets
 -
-  time: 1.00
+  time: 3.00
   task: Concept bepalen
 -
-  time: 1.50
+  time: 2.50
   task: Elevator pitch voorbereiden
 -
   time: 2.50
   task: Elevator pitch doen en bekijken van anderen
 -
-  time: 1.00
+  time: 3.00
   task: Ideaboard
 -
-  time: 1.50
-  task: Paper prototype
--
-  time: 1.50
-  task: Style tiles
--
-  time: 1.00
-  task: Style tiles
--
-  time: 1.00
-  task: Wireflow
--
-  time: 2.00
-  task: Styletiles & wireflow
--
-  time: 2.00
-  task: problemen github opgelost
+  time: 2.50
+  task: Style Tiles
 -
   time: 2.50
-  task: wireflow opnieuw maken en style tiles
--
-  time: 3.00
-  task: screen designs en wireflow smartphone
+  task: Wireflow smartwatch
 -
   time: 2.00
-  task: productiedossier
+  task: Style Tiles aanpassen
+-
+  time: 1.50
+  task: Persona sheets aanpassen
+-
+  time: 2.50
+  task: Wireflow smartwatch
+-
+  time: 1.50
+  task: Gebruikerstesten
+-
+  time: 3.00
+  task: Problemen github oplossen
+-
+  time: 2.50
+  task: Wireflow smartphone
+-
+  time: 4.00
+  task: Visuals smartphone
+-
+  time: 2.00
+  task: Visuals smartwatch aanpassan zoals smartphone
+-
+  time: 2.50
+  task: Productiedossier
+-
+  time: 3.50
+  task: Productie dossier
+-
+  time: 2.25
+  task: Wireframes site
+-
+  time: 2.00
+  task: Visuals website verder werken
+-
+  time: 3.50
+  task: Productie dossier
+-
+  time: 2.00
+  task: Visuals site
+-
+  time: 2.00
+  task: Weeral problemen met github oplossen
+-
+  time: 3.00
+  task: Kleine dingen aanpassen en productiedossier
+-
+  time: 2.00
+  task: Productiedossier
+-
+  time: 1.00
+  task: Presentatie maken mondeling
+-
+  time: 1.50
+  task: Presentatie voorbereiden samen met Lotte en verdelen
+-
+  time: 2.00
+  task: Productiedossier afwerken
+-
+  time: 1.00
+  task: Productiedossier controleren en pushen
+-
+  time: 1.50
+  task: Presentatie voorbereiden
+-
+  time: 0.25
+  task: Presentatie eens voor familie presenteren
 -

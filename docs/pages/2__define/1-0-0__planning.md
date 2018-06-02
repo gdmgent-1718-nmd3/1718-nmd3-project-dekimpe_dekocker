@@ -7,7 +7,7 @@ published: true
 title: Planning
 ---
 
-Wij gaan proberen deze planning zo goed mogelijk te volgend zodat we geen tijd tekort komen.
+Wij gaan proberen deze planning zo goed mogelijk te volgen zodat we geen tijd tekort komen.
 
 <img class="max-width" src="{{ 'assets/img/planning1.png' | relative_url }}" alt="planning" width="100%"/>
 

@@ -9,8 +9,8 @@ title: Smartphone-app
 
 ## Inhoud
 
-[Wireflow](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/smartphone-app/wireflow' | relative_url }}">1 Wireflow</a><br>
 
-[Gebruikerstesten](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/smartphone-app/gebruikerstests' | relative_url }}">2 Gebruikerstests</a><br>
 
-[Screen designs](docs/pages/3_design/2-1-0_smartwatch-app_wireflow.md)
+<a href="{{ 'design/smartphone-app/screen-designs' | relative_url }}">3 Screen designs</a><br>
