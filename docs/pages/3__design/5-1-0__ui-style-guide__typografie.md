@@ -9,7 +9,6 @@ title: Typografie
 ## Smartwatch
 
 
-
 |     |H1     |Gewone tekst     | Geaccentueerde tekst      |      
 | ------------- |-------------|-------------|
 |Font|Rubik |Roboto Mono |Roboto Mono |
@@ -32,13 +31,5 @@ title: Typografie
 
 ## Promo site
 
-
-|     |H1     |Gewone tekst     | Slogan header      |      
-| ------------- |-------------|-------------|
-|Font| Rubik|Roboto Mono |Rubik |
-|Font-weight|Bold |Medium |Bold |
-|Font-size|45 |40 |100 |
-|Color|Wit |Wit of donkerblauw |Wit |
-{:.table}
 
 
