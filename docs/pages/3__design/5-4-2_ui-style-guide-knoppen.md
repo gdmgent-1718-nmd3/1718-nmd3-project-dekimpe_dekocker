@@ -19,7 +19,7 @@ Op de smartwatch app gebruiken we kleine ronde knoppen met iconen omdat het sche
 
 <img class="max-width" src="{{ 'assets/img/knoppen_phone.png' | relative_url }}" />
 
-Bij de smartphone app gebruiken we lange afgeronde knoppen om in dezelfde stijl van onze kleine ronde knoppen te blijven maar omdat het scherm groteren is opteren wij ook voor grotere duidelijkere knoppen.
+Bij de smartphone app gebruiken we lange afgeronde knoppen om in dezelfde stijl van onze kleine ronde knoppen te blijven maar omdat het scherm groter is opteren wij ook voor grotere duidelijkere knoppen.
 
 ## Gecodeerde knoppen
 

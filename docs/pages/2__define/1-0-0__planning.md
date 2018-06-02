@@ -7,7 +7,7 @@ published: true
 title: Planning
 ---
 
-Wij gaan proberen deze planning zo goed mogelijk te volgen zodat we geen tijd tekort komen.
+Wij gaan proberen deze planning zo goed mogelijk te volgen zodat we geen tijd te kort komen.
 
 <img class="max-width" src="{{ 'assets/img/planning1.png' | relative_url }}" alt="planning" width="100%"/>
 
@@ -15,4 +15,4 @@ Wij gaan proberen deze planning zo goed mogelijk te volgen zodat we geen tijd te
 
 <img class="max-width" src="{{ 'assets/img/planning3.png' | relative_url }}" alt="planning" width="100%"/>
 
-Wij hebben deze planning proberen te volgen maar wij zijn toch achter geraakt. We hadden geen tijd te kort maar we hadden zeker geen tijd over ook.
+Dit is ons min om meer gelukt, we hadden geen tijd meer over maar ook geen te kort.

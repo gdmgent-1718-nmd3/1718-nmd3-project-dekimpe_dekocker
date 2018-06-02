@@ -6,4 +6,10 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
-<img class="max-width" src="{{ 'assets/img/wireframe_site.png' | relative_url }}" alt="wireframe"/>
+<img class="uitleg"  src="{{ 'assets/img/uitleg.png' | relative_url }}" alt="wireflow"/>
+
+<img class="max-width"  src="{{ 'assets/img/site1.png' | relative_url }}" alt="wireflow"/>
+
+<img class="max-width"  src="{{ 'assets/img/site1.png' | relative_url }}" alt="wireflow"/>
+
+<img class="max-width"  src="{{ 'assets/img/site3.png' | relative_url }}" alt="wireflow"/>
