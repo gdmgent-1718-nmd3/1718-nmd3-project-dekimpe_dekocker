@@ -6,7 +6,7 @@ published: true
 # ─────────────────────
 title: Typografie
 ---
-<h2>Smartwatch</h2>
+## Smartwatch
 
 
 
@@ -18,7 +18,7 @@ title: Typografie
 |Color|Donker oranje |Wit |Licht oranje |
 {:.table}
 
-<h2>iPhone 6s</h2>
+## iPhone 6s
 
 
 
@@ -30,7 +30,7 @@ title: Typografie
 |Color|Donker oranje |Wit |Licht oranje |
 {:.table}
 
-<h2>Promo site</h2>
+## Promo site
 
 
 |     |H1     |Gewone tekst     | Slogan header      |      
