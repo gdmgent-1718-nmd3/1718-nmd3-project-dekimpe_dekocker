@@ -31,5 +31,12 @@ title: Typografie
 
 ## Promo site
 
+|     |H1     |Gewone tekst     | Slogan header      |      
+| ------------- |-------------|-------------|
+|Font|Rubik|Roboto Mono |Rubik |
+|Font-weight|Bold |Medium |Bold |
+|Font-size|45 |40 |100 |
+|Color|Wit |Wit of donkerblauw |Wit |
+{:.table}
 
 
